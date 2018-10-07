@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Emmet",
+		"GitGutter",
+		"Haml",
+		"Javascript Beautify",
+		"Package Control",
+		"RuboCop",
+		"Theme - Afterglow"
+	]
+}
